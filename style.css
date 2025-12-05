@@ -1,0 +1,47 @@
+body {
+  background-size: cover;             
+  background-position: center;        
+  background-repeat: no-repeat;       
+  transition: background 0.5s ease;  
+ background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("fundo.png") center/cover no-repeat;
+  font-family: Arial, Helvetica, sans-serif; 
+}
+  
+h1 {
+  color: #0c0c0c;
+}
+
+.jogo{
+  width: 100%;              
+  max-width:300px;            
+  margin: 0 auto; 
+  margin-top: 260px; 
+  text-align: center;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgb(99, 99, 99);
+}
+
+input, button {
+  margin: 10px;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  background-color: #096814;
+  color: rgb(250, 235, 235);
+}
+
+button:hover {
+  background-color: #28b128;
+}
+
+#mensagem {
+  font-weight: bold;
+  margin-top: 15px;
+}
