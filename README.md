@@ -2,6 +2,7 @@
 
 Um jogo simples e divertido feito em **HTML, CSS e JavaScript** onde o jogador deve tentar adivinhar a cor sorteada.  
 Ao acertar, o fundo da página muda para a cor escolhida!
+Acesse em: https://luisavva.github.io/JogoAdvinhaCores/
 
 ---
 
